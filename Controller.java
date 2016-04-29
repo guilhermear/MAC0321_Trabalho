@@ -1,4 +1,3 @@
-package events_controller;
 
 public class Controller {
 	private EventSet es = new EventSet();
