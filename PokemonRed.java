@@ -1,5 +1,3 @@
-package events_controller;
-import basics.*;
 
 public class PokemonRed extends Controller{
 	private MestrePokemon jogador1;
