@@ -1,4 +1,3 @@
-package basics;
 
 class Ataque {
 	private int poder;
