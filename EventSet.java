@@ -1,4 +1,3 @@
-package events_controller;
 
 class EventSet {
 	private Event[] events = new Event[100];
