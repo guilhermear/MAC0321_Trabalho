@@ -1,4 +1,3 @@
-package events_controller;
 
 abstract public class Event {
 	private long evtTime;
