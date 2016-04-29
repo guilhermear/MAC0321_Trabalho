@@ -1,4 +1,3 @@
-package basics;
 
 public class MestrePokemon {
 	private String nome;
