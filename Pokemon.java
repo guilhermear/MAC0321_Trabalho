@@ -1,4 +1,3 @@
-package basics;
 
 public class Pokemon extends Ataque{
 	private String nome;
